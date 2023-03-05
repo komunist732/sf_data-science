@@ -38,8 +38,12 @@
 
 ### Этапы работы над проектом  
 Подход 1: Случайное угадывание
+
 Подход 2: Угадывание с коррекцией
+
 Подход 3: Угадывание с учетом предыдущих попыток
+
+[Проект 0: Угадай число](https://drive.google.com/file/d/1ouZQIz6mqidZ_d4hSyhjj6WvyLgLIIwD/view?usp=share_link)
 
 :arrow_up:[к оглавлению](https://github.com/komunist732/sf_data-science/blob/main/Project_0/README.md#Оглавление)
 
