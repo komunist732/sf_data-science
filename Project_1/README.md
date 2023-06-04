@@ -24,7 +24,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/komunist732/sf_data-science/blob/main/Project_1/README.md)
 
-## 3. [Решение данной задачи:](https://drive.google.com/file/d/1TIxeTyibLHRvgTQtAyoP0cmJfLcbjFG0/view?usp=sharing)
+## 3. [Решение данной задачи:](https://github.com/komunist732/sf_data-science/blob/main/Project_1/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%20HH.ipynb)
 * ### ___Базовый анализ структур:___
 Нам предоставили **[базу данных](https://drive.google.com/file/d/1vKcx7xKHDmAtIIz9C7smMjN9aqTJKni0/view?usp=sharing)**, где содержатся резюме кандидатов на различные вакансии в HeadHunter. В этой части задачи, мы проводим ___базовый анализ___ датафрейма, чтобы  в дальнейшем могли эффективно работать с __преобразованием данных__.
 * ### ___Преобразование данных:___
